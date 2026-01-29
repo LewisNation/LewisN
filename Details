@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Your Name</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 50px;
+      background: #f4f4f4;
+    }
+    h1 { color: #333; }
+    p { font-size: 18px; }
+  </style>
+</head>
+<body>
+  <h1>Hello, I’m Your Name 👋</h1>
+  <p>I’m a student / developer / designer.</p>
+  <p>Email: your@email.com</p>
+</body>
+</html>
